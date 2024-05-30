@@ -3,6 +3,10 @@
     font-family: Verdana, Geneva, Tahoma, DejaVu Sans, sans-serif;
 }
 
+.Odd.Third{
+    font-size: 24px;
+}
+
 #Second{
     color:blue;
     font-size: 36px;
