@@ -3,3 +3,14 @@
     font-family: Verdana, Geneva, Tahoma, DejaVu Sans, sans-serif;
 }
 
+#Second{
+    color:blue;
+    font-size: 36px;
+}
+
+#Fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
